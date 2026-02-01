@@ -1,2 +1,2 @@
-# pixtv
-Liste IP TV française
+# iptv
+ 
